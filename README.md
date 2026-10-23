@@ -1,8 +1,8 @@
-# West Vancouver Beach House with Python Turtle
+# Beach House with Python Turtle
 
 ## Description
 
-This project uses Python's `turtle` graphics library to draw a peaceful beach house scene inspired by Arthur Erickson's architecture and the West Vancouver coastline.
+This project uses Python's `turtle` graphics library to draw a peaceful beach house scene.
 
 The drawing includes a flat-roofed house with large windows and a wooden section, mountains, a sun, an ocean, a sandy beach, a small pond, stepping stones, and a tree.
 
@@ -26,7 +26,7 @@ Loops repeat the wooden boards, windows, stepping stones, and waves. The backgro
 
 ## Example Output
 
-![West Vancouver beach house drawing](Final%20Drawing.png)
+![Beach house drawing](Final%20Drawing.png)
 
 ## How to Run
 
@@ -40,7 +40,3 @@ Loops repeat the wooden boards, windows, stepping stones, and waves. The backgro
 
 4. A Turtle graphics window will open and draw the scene.
 5. Click anywhere in the drawing window to close it.
-
-## Course
-
-Created for COMP 115 Project 1.
